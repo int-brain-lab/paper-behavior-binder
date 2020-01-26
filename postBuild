@@ -1,1 +1,2 @@
 wget -q -O ibl-behavior-data-Dec2019.zip "https://ndownloader.figshare.com/files/21299016"
+unzip ibl-behavior-data-Dec2019.zip
